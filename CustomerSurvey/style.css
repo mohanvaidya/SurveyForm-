@@ -2,7 +2,7 @@ body {
   background: radial-gradient(
     circle at 10% 20%,
     rgb(252, 150, 120) 0%,
-    rgb(247, 108, 127) 100.4%
+    rgb(247, 108, 127) 100%
   );
 }
 
@@ -18,10 +18,8 @@ h1 {
   justify-content: center;
 }
 h2 {
-  position: relative;
-  top: 40%;
-  left: 30%;
-  bottom: 60%;
+  padding-top: 10%;
+  padding-left: 25%;
   font-size: 32px;
   color: azure;
 }
